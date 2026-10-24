@@ -2,6 +2,8 @@
 
 > 🎓 Made during Lab 7 for **CS 172** at **Drexel University**
 
+**[▶️ Play it in your browser](https://wasif-ifti.github.io/Maze-Game/)**
+
 A text adventure where you type directions to find your way out of a maze. Pick one of three mazes, including **The Old Mansion**, a 9-room haunted house with dead ends, a loop, and a garden somewhere to the north.
 
 ## The idea
