@@ -1,6 +1,6 @@
 # 🏚️ Maze Game
 
-> 🎓 Rebuilt and extended from Lab 7 for **CS 172** at **Drexel University**
+> 🎓 Made during Lab 7 for **CS 172** at **Drexel University**
 
 A text adventure where you type directions to find your way out of a maze. Pick one of three mazes, including **The Old Mansion**, a 9-room haunted house with dead ends, a loop, and a garden somewhere to the north.
 
